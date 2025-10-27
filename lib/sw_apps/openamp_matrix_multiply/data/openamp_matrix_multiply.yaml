@@ -12,6 +12,8 @@ supported_processors:
   - psv_cortexr5
   - psx_cortexr52
   - cortexr52
+  - ti_am67a_r5f
+  - ti_j722s_r5f
 
 supported_os:
   - standalone
